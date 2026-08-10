@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "geo_07_特定施設入居者生活介護（軽費老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ハッピー愛ランド【特定施設入居者生活介護（軽費老人ホーム）】福島県福島市南矢野目字才ノ後6-2", "url": "https://www.kaigokensaku.mhlw.go.jp/07/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0770100469-00&ServiceCd=332&Type=search", "url2": "http://www.happyisland.org/" }, "geometry": { "type": "Point", "coordinates": [ 140.472330199999988, 37.788631 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウス　日之出荘【特定施設入居者生活介護（軽費老人ホーム）】福島県いわき市平上片寄字上ノ内１９３番地", "url": "https://www.kaigokensaku.mhlw.go.jp/07/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0770401636-00&ServiceCd=332&Type=search", "url2": "https://syouheikou.or.jp/taiyo/" }, "geometry": { "type": "Point", "coordinates": [ 140.915185299999962, 37.0804717 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウス広瀬【特定施設入居者生活介護（軽費老人ホーム）】福島県伊達市梁川町字東土橋６５－１", "url": "https://www.kaigokensaku.mhlw.go.jp/07/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0771300795-00&ServiceCd=332&Type=search", "url2": "https://www.shintatsu.jp" }, "geometry": { "type": "Point", "coordinates": [ 140.593143599999962, 37.8466254 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウス　星風苑【特定施設入居者生活介護（軽費老人ホーム）】福島県伊達市月舘町御代田字月崎山１番７", "url": "https://www.kaigokensaku.mhlw.go.jp/07/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0771300357-00&ServiceCd=332&Type=search", "url2": "https://jijinkai-seifuen.jp" }, "geometry": { "type": "Point", "coordinates": [ 140.6031041, 37.7523104 ] } },
+{ "type": "Feature", "properties": { "内容": "矢祭町軽費老人ホーム　櫻の苑【特定施設入居者生活介護（軽費老人ホーム）】福島県東白川郡矢祭町大字中石井字御殿川原11-1矢祭町軽費老人ホーム　櫻の苑", "url": "https://www.kaigokensaku.mhlw.go.jp/07/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0772900460-00&ServiceCd=332&Type=search", "url2": "http://www.yu-ai.org" }, "geometry": { "type": "Point", "coordinates": [ 140.414269998147546, 36.906878763910832 ] } },
+{ "type": "Feature", "properties": { "内容": "軽費老人ホームケアハウスせせらぎ荘【特定施設入居者生活介護（軽費老人ホーム）】福島県東白川郡矢祭町大字東舘字蔵屋敷122番地", "url": "https://www.kaigokensaku.mhlw.go.jp/07/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0772900270-00&ServiceCd=332&Type=search", "url2": "http://www.yu-ai.org" }, "geometry": { "type": "Point", "coordinates": [ 140.418935353967328, 36.870602556162567 ] } }
+]
+}

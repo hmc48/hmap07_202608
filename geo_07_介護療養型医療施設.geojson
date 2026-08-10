@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "geo_07_介護療養型医療施設",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "社団医療法人尚佑会矢吹病院【介護療養型医療施設】福島県いわき市佐糠町東一丁目18番地の3", "url": "https://www.kaigokensaku.mhlw.go.jp/07/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0710415928-00&ServiceCd=530&Type=search", "url2": "http://www13.ocn.ne.jp/~k-hosp/" }, "geometry": { "type": "Point", "coordinates": [ 140.804821800000013, 36.9178318 ] } },
+{ "type": "Feature", "properties": { "内容": "鳴瀬病院【介護療養型医療施設】福島県喜多方市字稲荷宮７３０７番地の１", "url": "https://www.kaigokensaku.mhlw.go.jp/07/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0710810946-00&ServiceCd=530&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 139.877017, 37.646825100000036 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人社団　青空会　大町病院【介護療養型医療施設】福島県南相馬市原町区大町3丁目97番地", "url": "https://www.kaigokensaku.mhlw.go.jp/07/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0711210294-00&ServiceCd=530&Type=search", "url2": "http://www.ohmachi.jp" }, "geometry": { "type": "Point", "coordinates": [ 140.9676637, 37.6399613 ] } }
+]
+}

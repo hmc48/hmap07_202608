@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_07_夜間対応型訪問介護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "社会福祉法人ライフ・タイム・福島　ロング・ライフ夜間対応型訪問介護事業所【夜間対応型訪問介護】福島市松川町字産子内１番地の１", "url": "https://www.kaigokensaku.mhlw.go.jp/07/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0790100309-00&ServiceCd=710&Type=search", "url2": "http://www.life-time-fukushima.jp/" }, "geometry": { "type": "Point", "coordinates": [ 140.478043399999933, 37.6672997 ] } }
+]
+}

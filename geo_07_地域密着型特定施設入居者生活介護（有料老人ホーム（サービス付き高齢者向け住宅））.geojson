@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_07_地域密着型特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "JWS陽だまりの郷　地域密着型特定施設入居者生活介護【地域密着型特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】福島県二本松市表二丁目772", "url": "https://www.kaigokensaku.mhlw.go.jp/07/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0791000052-00&ServiceCd=&Type=search", "url2": "http://jws-c.jp" }, "geometry": { "type": "Point", "coordinates": [ 140.436066899999986, 37.6044032 ] } }
+]
+}
